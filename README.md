@@ -20,6 +20,7 @@ package main
 import (
 	"fmt"
 	"github.com/syndr0m/mygameengine"
+	"github.com/syndr0m/mygameengine/image"
 )
 
 func main() {
